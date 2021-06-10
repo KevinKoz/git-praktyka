@@ -1,2 +1,2 @@
-# git-praktyka
-Git w praktyce
+#### git-praktyka
+Git w praktyce 
